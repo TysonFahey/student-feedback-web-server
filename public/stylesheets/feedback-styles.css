@@ -1,0 +1,16 @@
+body {
+  background: rgb(244, 231, 141);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, Geneva, Tahoma, sans-serif;
+}
+.protest-guerrilla-regular {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nerko-one-regular {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
